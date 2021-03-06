@@ -1,4 +1,4 @@
- ![Image](https://imgur.com/a/n4Eeq5X)
+ ![Image](https://i.imgur.com/k1fsQKC.jpg)
  
  Nikola Tesla (1856-1943) a fost un inventator, fizician ,inginer mecanic ,inginer electrician și unul dintre promotorii cei mai importanți ai electricității comerciale. Tesla este considerat ca fiind un important om de știință al sfârșitului de secol XIX și începutului de secol XX. Invențiile, precum și munca teoretică ale lui Tesla au pus bazele cunoștințelor moderne despre curentul alternativ, puterea electrică, sistemele de curent alternativ, incluzând sistemele polifazice, sistemele de distribuție a puterii și motorul pe curent alternativ.
  
