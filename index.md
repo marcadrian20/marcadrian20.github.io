@@ -26,6 +26,10 @@ Spre deosebire de ceilalți subofițeri din flotilă, trei ofițeri de la bordul
 
 Chiar dacă Arkhipov era al doilea comandant al submarinului B-59, el era  Commodore al întregii flotile submarine, inclusiv B-4, B-36 și B-130. Dar datorită reputației pe care Arkhipov o câștigase din comportamentul său curajos în incidentul K-19 l-a ajutat să predomine. Arkhipov l-a convins în cele din urmă pe căpitanul Savitsky să iasă la suprafață și să aștepte ordine de la Moscova. Acest lucru a evitat efectiv războiul nuclear general care probabil ar fi urmat dacă arma nucleară ar fi fost lansată. 
 
+
+
+
+
 ```
 Proiect realizat de Lițoiu Marc Adrian
 ```
