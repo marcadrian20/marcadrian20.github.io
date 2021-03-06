@@ -8,7 +8,7 @@
   Arkhipov s-a născut într-o familie de țărani din orașul Staraya Kupavna, lângă Moscova. A fost educat la Școala Navală Superioară din Pacific și a participat la războiul sovieto-japonez din august 1945, servind la bordul unui dragor de mine. S-a transferat la Școala Navală Superioară Caspică și a absolvit în 1947.
   După absolvirea în 1947, Arkhipov a servit în serviciul submarin la bordul ambarcațiunilor din flota Mării Negre, nordice și baltice.
 
-### Accidentul submarinul sovietic K-19
+### Accidentul submarinului sovietic K-19
   În iulie 1961, Arkhipov a fost numit comandant adjunct și, prin urmare, ofițer executiv al noului submarin de rachete balistice de clasă hotelieră K-19. 
   
   După câteva zile de desfășurare a exercițiilor în largul coastei de sud-est a Groenlandei, submarinul a dezvoltat o scurgere extremă în sistemul său de răcire a reactorului. Această scurgere a dus la defectarea sistemului de răcire. De asemenea, comunicațiile radio au fost afectate, iar echipajul nu a putut contacta Moscova. Fără sisteme de rezervă, comandantul Zateyev a ordonat celor șapte membri ai echipajului inginer să vină cu o soluție pentru a evita topirea nucleară. Acest lucru a impus bărbaților să lucreze la niveluri ridicate de radiații pentru perioade lungi de timp. 
