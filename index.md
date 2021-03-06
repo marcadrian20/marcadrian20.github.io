@@ -1,56 +1,43 @@
 ## **Nikola Tesla**
 
-  Nikola Tesla (10 iulie 1856-7 ianuarie 1943) a fost un inventator sârbo-american, inginer electric și futurist. În calitate de deținător de aproape 300 de brevete, Tesla este cel mai bine cunoscut pentru rolul său în dezvoltarea sistemului modern de alimentare cu energie electrică trifazată cu curent alternativ (AC) și pentru invenția bobinei Tesla, o avansare timpurie în domeniul transmisiei radio.
+  Nikola Tesla (1856-1943) a fost un inventator, fizician ,inginer mecanic ,inginer electrician și unul dintre promotorii cei mai importanți ai electricității comerciale. Tesla este considerat ca fiind un important om de știință al sfârșitului de secol XIX și începutului de secol XX. Invențiile, precum și munca teoretică ale lui Tesla au pus bazele cunoștințelor moderne despre curentul alternativ, puterea electrică, sistemele de curent alternativ, incluzând sistemele polifazice, sistemele de distribuție a puterii și motorul pe curent alternativ.
+ 
+#### Cateva informatii:
 
-## *Tinerete si educatie*
+## Inceputul vieții
+ 
+   Nikola Tesla a fost al patrulea fiu dintr-o familie cu cinci copii, având un frate mai mare, Dane (care a murit într-un accident de echitație când Nikola avea 9 ani) și trei surori (Milka, Angelina și Marica).Familia lui s-a mutat la Gospić în 1862. Tesla a urmat cursurile școlii „Gymnasium Karlovac” în Karlovac, unde a terminat în doar trei ani ciclul de învățământ de patru ani.
+  
+  Ulterior a început studiile de inginerie electrică la Universitatea din Graz în 1875, timp în care a experimentat unele utilități ale curentului alternativ. Unele surse afirmă că a fost licențiat al Universității din Graz, cu toate acestea, universitatea afirmă că nu a obținut nicio diplomă și că nu a trecut mai departe de al doilea semestru al anului trei, moment în care a renunțat la cursuri. În decembrie 1878 a plecat din Graz și a întrerupt legăturile cu familia. Apropiații credeau că se înecase în Râul Mur. S-a îndreptat către Maribor (astăzi în Slovenia), unde a obținut prima sa slujbă ca subinginer, post pe care l-a ocupat timp de un an. În timpul acestei perioade a suferit o criză nervoasă. Tesla a fost apoi convins de către tatăl său să se înscrie la cursurile Universității Carolina din Praga, la care a asistat în vara anului 1880. Aici a fost influențat de către Ernst Mach. Cu toate acestea, după moartea tatălui său a abandonat universitatea, terminând doar un curs.
+Tesla își petrecea mult timp citind cărți, pe care le memora în întregime, având o memorie fotografică. Tesla a relatat în autobiografia sa că în numeroase ocazii a experimentat momente detaliate de inspirație. În timpul copilăriei a avut mai multe episoade de boală. Avea o afecțiune foarte ciudată, care se manifesta prin apariția unor fascicule de lumină orbitoare în fața ochilor, adesea însoțite de halucinații. Aceste halucinații erau asociate unui cuvânt sau unei idei care îl urmărea. Uneori aceste halucinații îi dădeau soluția problemei care îl preocupa. Putea vizualiza în formă reală orice obiect al cărui nume îl auzea. În prezent, afecțiunea numită sinestezie prezintă simptome similare. Tesla putea vizualiza o invenție cu o precizie incredibilă, incluzând toate dimensiunile, înainte de a începe să o construiască, tehnică pe care azi o cunoaștem ca gândire vizuală. Nu obișnuia să deseneze schițe ale invențiilor, concepea totul din minte.
 
-  Nikola Tesla s-a născut la 10 iulie 1856, în satul Smiljan din Imperiul Austriei (acum Croația), din partea tatălui său sârb Milutin Tesla, preot ortodox oriental , și a mamei sale Đuka Tesla, care a inventat aparate electrocasnice mici și a avut capacitatea pentru a memora lungi poezii epice sârbești. Tesla și-a creditat mama pentru propriul interes în inventarea și memoria fotografică. A avut patru frați, un frate Dane și surorile Angelina, Milka și Marica. 
+## Cariera
 
-  În 1870, Tesla a început liceul la Gimnaziul Real Superior din Karlovac, Austria. El și-a amintit că demonstrațiile de electricitate ale profesorului său de fizică l-au făcut să-și dorească „să știe mai multe despre această forță minunată”. Capabil să facă calcul integral în cap, Tesla a terminat liceul în doar trei ani, absolvind în 1873.
+  În 1880 s-a mutat la Budapesta pentru a munci în Compania Națională de Telegrafie, devenită ulterior Compania Națională de Telefonie. Acolo l-a cunoscut pe Nebojša Petrovič, un tânăr inventator sârb care trăia în Austria. În ciuda faptului că întâlnirea celor doi a fost de scurtă durată, au lucrat împreună la un proiect care folosea turbine gemene pentru a genera energie continuă. În momentul în care s-a deschis centrala telefonică în 1881 în Budapesta, Tesla devenise șeful electricienilor din companie și a fost mai târziu inginer pentru primul sistem telefonic al țării. De asemenea a inovat un dispozitiv care, conform unora, era un amplificator telefonic, însă pentru alții ar fi fost primă boxă de amplificare a sunetului.
 
-  Hotărât să urmeze o carieră în inginerie, Tesla s-a înscris la Institutul Politehnic Austriac din Graz, Austria, în 1875. Aici Tesla a studiat o dinamă Gramme, un generator electric care produce curent continuu. Observând că dinamul funcționa ca un motor electric atunci când direcția curentului său a fost inversată, Tesla a început să se gândească la modalitățile în care acest curent alternativ ar putea fi utilizat în aplicații industriale. Deși nu a absolvit niciodată - așa cum nu era neobișnuit atunci - Tesla a obținut note excelente și chiar i s-a dat o scrisoare de la decanul facultății tehnice adresată tatălui său, spunând: „Fiul tău este o stea de prim rang”.
+### Franța
 
-Simțind că castitatea îl va ajuta să se concentreze asupra carierei sale, Tesla nu s-a căsătorit niciodată sau nu a avut relații romantice cunoscute. În cartea ei din 2001, „ Tesla: Man Out of Time ”, biograful Margaret Cheney scrie că Tesla s-a simțit nevrednic de femei, considerându-le că sunt superioare lui în toate privințele. Totuși, mai târziu în viață, el și-a exprimat în public dezgustul puternic, ceea ce el numea „noua femeie”, femeile pe care le simțea că își abandonează feminitatea în încercarea de a domina bărbații.
+  În 1882 Tesla s-a mutat la Paris, pentru a lucra ca inginer în Continental Edison Company (una din companiile lui Thomas Edison), proiectând îmbunătățiri pentru echipamentele electrice aduse de pe celălalt mal al oceanului, datorită ideilor lui Edison. Conform biografiei sale, în același an, Tesla a inventat motorul de inducție și a început să lucreze la mai multe dispozitive care foloseau câmpul magnetic rotativ, pentru care a primit patentele în 1888.
 
-### *Calea catre curentul alternativ (AC)*
+### Statele Unite ale Americii
 
-În 1881, Tesla s-a mutat la Budapesta, Ungaria, unde a dobândit experiență practică ca electrician șef la Centrala telefonică centrală. În 1882, Tesla a fost angajată de compania Continental Edison din Paris, unde a lucrat în industria emergentă de instalare a sistemului de iluminat cu incandescență cu curent continuu patentat de Thomas Edison în 1879. Impresionat de măiestria Tesla în inginerie și fizică, conducerea companiei în curând l-a pus să proiecteze versiuni îmbunătățite de generare de dinamouri și motoare și să rezolve probleme la alte instalații Edison din Franța și Germania.
+În iunie 1884, Tesla a ajuns pentru primă dată în Statele Unite ale Americii, în orașul New York, cu o scrisoare de recomandare din partea lui Charles Batchelor, un vechi angajat, către Thomas Edison, în care Batchelor a scris: "Cunosc doi mari oameni, tu ești unul dintre ei; celălalt este acest tânăr". Edison l-a angajat pe Tesla pentru a munci în compania sa ca simplu inginer electrician, unde a progresat rapid, rezolvând mai multe probleme tehnice foarte dificile pe care le aveau produsele companiei. Astfel că, i s-a oferit să reproiecteze complet toate generatoarele de curent continuu ale companiei.
+Tesla afirma că i s-au oferit 50.000$  pentru reproiectarea motoarelor și generatoarelor ineficiente ale lui Edison, îmbunătățind astfel serviciile și produsele oferite de compania acestuia, dar și veniturile financiare. În 1885, când Tesla a întrebat despre plata promisă, Edison i-a răspuns: "Tesla, tu nu înțelegi umorul nostru american", rupând astfel înțelegerea verbală. Cu un salariu de 18$ pe săptămână, Tesla ar fi trebuit să muncească 53 de ani pentru a strânge banii promiși. Oferta era egală cu capitalul inițial al companiei. Tesla a renunțat imediat la slujbă când i s-a refuzat o mărire de salariu la 25$ pe săptămână.
 
-Când managerul facilității Continental Edison din Paris a fost transferat înapoi în Statele Unite în 1884, el a cerut ca Tesla să fie adusă și în SUA. În iunie 1884, Tesla a emigrat în Statele Unite și a plecat să lucreze la Edison Machine Works din New York, unde sistemul de iluminare electrică bazat pe DC a lui Edison devenea rapid standardul. Doar șase luni mai târziu, Tesla a renunțat la Edison după o dispută aprinsă cu privire la salariile și bonusurile neplătite. În jurnalul său, Notebook from the Edison Machine Works: 1884-1885 , Tesla a marcat sfârșitul relației amiabile dintre cei doi mari inventatori. De-a lungul a două pagini, Tesla a scris cu litere mari, "Good By to the Edison Machine Works".
+## Experimente si invenții
 
-Până în martie 1885, Tesla, cu sprijinul financiar al oamenilor de afaceri Robert Lane și Benjamin Vail, și-a început propria companie de iluminat, Tesla Electric Light & Manufacturing. În locul becurilor cu incandescență Edison, compania Tesla a instalat un sistem de iluminare cu arc alimentat de curent continuu pe care îl proiectase în timp ce lucra la Edison Machine Works. În timp ce sistemul de iluminare cu arc Tesla a fost lăudat pentru caracteristicile sale avansate, investitorii săi, Lane și Vail, au avut puțin interes în ideile sale de perfecționare și valorificare a curentului alternativ. În 1886, au abandonat compania Tesla pentru a-și înființa propria companie. Miscarea l-a lăsat pe Tesla fără bani, obligându-l să supraviețuiască luând lucrări de reparații electrice și săpând șanțuri pentru 2,00 USD pe zi. Din această perioadă de dificultăți, Tesla își va aminti mai târziu: „Învățământul meu înalt în diferite ramuri ale științei, mecanicii,
+### Curentul alternativ(AC) și mptorul prin inducție
+  În 1887, a construit primul motor pe inducție, fără perii, alimentat cu curent alternativ, pe care l-a prezentat la American Institute of Electrical Engineers (IEEE sau Institutul de Inginerie Electrică și Electronică) în 1888. În același an, a prezentat principiul bobinei Tesla și a început să lucreze cu George Westinghouse la Westinghouse Electric & Manufacturing Company's, în laboratoarele din Pittsburgh, Pennsylvania. Westinghouse a fost captivat de ideile lui Tesla legate de sistemele polifazice, cele care puteau transmite curent alternativ la distanțe mari.
 
-În timpul perioadei sale de aproape destituire, hotărârea lui Tesla de a dovedi superioritatea curentului alternativ față de curentul continuu al lui Edison a devenit și mai puternică.
+### Bobina Tesla
+În 1891, a inventat bobina "Tesla", un circuit de transformare electrică capabil să producă curent alternativ de înaltă tensiune și curent redus. Deși este cea mai cunoscută astăzi pentru utilizarea sa în demonstrații spectaculoase de electricitate, scuipătoare, bobina Tesla a fost fundamentală pentru dezvoltarea comunicațiilor fără fir. Încă folosit în tehnologia radio modernă, bobina inductor Tesla a fost o parte esențială a multor antene timpurii de transmisie radio.
 
-### *Curentul alternativ și motorul cu inducție*
+Bobina Tesla va fi folosita în experimente cu telecomandă radio, iluminare fluorescentă , raze X , electromagnetism și transmisie universală de energie fără fir.
 
-În aprilie 1887, Tesla, împreună cu investitorii săi, superintendentul telegrafic Western Union Alfred S. Brown și avocatul Charles F. Peck, au înființat compania Tesla Electric Company în New York în scopul dezvoltării de noi tipuri de motoare și generatoare electrice.
+### Experimente cu raze-x
+În aprilie 1887, Tesla a început cercetările la ceea ce aveau să se numească ulterior raze X, folosindu-se de propriul său tub de vacuum. Acest dispozitiv era diferit de alte tuburi de raze X prin faptul că nu avea electrod receptor. Acum se știe că acest dispozitiv funcționa emițând electroni dintr-un singur electrod, prin intermediul combinației de emisii de electroni prin efect de câmp și emisie termoionică. Odată eliberați, electronii sunt foarte rapid captați de un câmp electric puternic în apropierea electrodului în timpul vârfurilor de voltaj negativ de la ieșirea de înaltă tensiune oscilantă a bobinei Tesla, generând raze X atunci când se lovesc de învelișul de sticlă al tubului. Tesla a folosit, de asemenea, tuburile lui Geissler. In 1892, el a observat leziuni ale pielii, pe care Wilhelm Röntgen le-a identificat mai târziu ca fiind cauzate de razele X.
+În primele sale cercetări, Tesla a schițat anumite experimente pentru producerea razelor X. El a afirmat că, cu ajutorul acestor circuite, “instrumentul ar putea genera raze Roentgen de putere mai mare decât cele obținute cu aparatele obișnuite”. De asemenea, a atras atenția asupra pericolului folosirii circuitelor sale și a razelor X produse de dispozitivul său cu un singur nod. Din numeroasele sale note din timpul cercetărilor preliminare ale acestui fenomen, a atribuit leziunile pielii unor cauze variate. El a crezut inițial că leziunile nu puteau fi cauzate de către razele Roentgen, ci ozonului generat în contact cu pielea și în parte de acidul de azot. El credea că acestea erau unde longitudinale, că acelea produse de către unde în plasmă.
 
-Tesla a dezvoltat în curând un nou tip de motor cu inducție electromagnetică care funcționa pe curent alternativ. Brevetat în mai 1888, motorul Tesla s-a dovedit a fi simplu, de încredere și nu supus nevoii constante de reparații care au afectat motoarele acționate în curent continuu în acel moment.
-
-În iulie 1888, Tesla și-a vândut brevetul pentru motoare de curent alternativ către Westinghouse Electric Corporation, deținută de George Westinghouse. În tranzacție, care s-a dovedit profitabilă din punct de vedere financiar pentru Tesla, Westinghouse Electric a obținut drepturile de comercializare a motorului de curent alternativ al lui Tesla și a acceptat să îl angajeze pe Tesla ca consultant.
-
-Cu Westinghouse susținând acum curentul alternativ și Edison susținând curentul direct, scena a fost pregătită pentru ceea ce va deveni cunoscut sub numele de "Războiul curenților".
-
-### *Bobina Tesla*
-
-În 1891, Tesla a brevetat bobina Tesla, un circuit de transformare electrică capabil să producă curent alternativ de înaltă tensiune și curent redus. Deși este cea mai cunoscută astăzi pentru utilizarea sa în demonstrații spectaculoase de electricitate, scuipătoare, bobina Tesla a fost fundamentală pentru dezvoltarea comunicațiilor fără fir. Încă folosit în tehnologia radio modernă, bobina inductor Tesla a fost o parte esențială a multor antene timpurii de transmisie radio.
-
-Tesla își va folosi bobina Tesla în experimente cu telecomandă radio, iluminare fluorescentă , raze X , electromagnetism și transmisie universală de energie fără fir. 
-
-La 30 iulie 1891, în același an în care și-a patentat bobina, Tesla, în vârstă de 35 de ani, a fost jurat ca cetățean naturalizat al Statelor Unite.
-
-### *Transmisie de energie fara fir*
-
-
-////////
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-# Informații
-
-### Email personal: marcadrian12@yahoo.com
-### Proiect realizat de Lițoiu Marc Adrian
+### Informații:
+#### Email personal: marcadrian12@yahoo.com
+#### Proiect realizat de Lițoiu Marc Adrian
