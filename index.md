@@ -39,10 +39,10 @@ Bobina Tesla va fi folosita în experimente cu telecomandă radio, iluminare flu
 În primele sale cercetări, Tesla a schițat anumite experimente pentru producerea razelor X. El a afirmat că, cu ajutorul acestor circuite, “instrumentul ar putea genera raze Roentgen de putere mai mare decât cele obținute cu aparatele obișnuite”. De asemenea, a atras atenția asupra pericolului folosirii circuitelor sale și a razelor X produse de dispozitivul său cu un singur nod. Din numeroasele sale note din timpul cercetărilor preliminare ale acestui fenomen, a atribuit leziunile pielii unor cauze variate. El a crezut inițial că leziunile nu puteau fi cauzate de către razele Roentgen, ci ozonului generat în contact cu pielea și în parte de acidul de azot. El credea că acestea erau unde longitudinale, că acelea produse de către unde în plasmă.
 
 ``` 
-Informații:
+Informații de contact:
  Email personal: marcadrian12@yahoo.com
 ```
 
 ```
-      Proiect realizat de Lițoiu Marc Adrian
+                                                              Proiect realizat de Lițoiu Marc Adrian
 ```
