@@ -27,11 +27,13 @@ Tesla afirma că i s-au oferit 50.000$  pentru reproiectarea motoarelor și gene
 
 ## Experimente si invenții
 
-### Curentul alternativ(AC) și mptorul prin inducție
+### Curentul alternativ(AC) și motorul prin inducție
   În 1887, a construit primul motor pe inducție, fără perii, alimentat cu curent alternativ, pe care l-a prezentat la American Institute of Electrical Engineers (IEEE sau Institutul de Inginerie Electrică și Electronică) în 1888. În același an, a prezentat principiul bobinei Tesla și a început să lucreze cu George Westinghouse la Westinghouse Electric & Manufacturing Company's, în laboratoarele din Pittsburgh, Pennsylvania. Westinghouse a fost captivat de ideile lui Tesla legate de sistemele polifazice, cele care puteau transmite curent alternativ la distanțe mari.
 
 ### Bobina Tesla
 În 1891, a inventat bobina "Tesla", un circuit de transformare electrică capabil să producă curent alternativ de înaltă tensiune și curent redus. Deși este cea mai cunoscută astăzi pentru utilizarea sa în demonstrații spectaculoase de electricitate, scuipătoare, bobina Tesla a fost fundamentală pentru dezvoltarea comunicațiilor fără fir. Încă folosit în tehnologia radio modernă, bobina inductor Tesla a fost o parte esențială a multor antene timpurii de transmisie radio.
+
+![Image](https://i.imgur.com/ZAyhEep.jpg)
 
 Bobina Tesla va fi folosita în experimente cu telecomandă radio, iluminare fluorescentă , raze X , electromagnetism și transmisie universală de energie fără fir.
 
