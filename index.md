@@ -1,5 +1,3 @@
-## **Nikola Tesla**
-
   Nikola Tesla (1856-1943) a fost un inventator, fizician ,inginer mecanic ,inginer electrician și unul dintre promotorii cei mai importanți ai electricității comerciale. Tesla este considerat ca fiind un important om de știință al sfârșitului de secol XIX și începutului de secol XX. Invențiile, precum și munca teoretică ale lui Tesla au pus bazele cunoștințelor moderne despre curentul alternativ, puterea electrică, sistemele de curent alternativ, incluzând sistemele polifazice, sistemele de distribuție a puterii și motorul pe curent alternativ.
  
 #### Cateva informatii:
@@ -22,6 +20,7 @@ Tesla își petrecea mult timp citind cărți, pe care le memora în întregime,
 ### Statele Unite ale Americii
 
 În iunie 1884, Tesla a ajuns pentru primă dată în Statele Unite ale Americii, în orașul New York, cu o scrisoare de recomandare din partea lui Charles Batchelor, un vechi angajat, către Thomas Edison, în care Batchelor a scris: "Cunosc doi mari oameni, tu ești unul dintre ei; celălalt este acest tânăr". Edison l-a angajat pe Tesla pentru a munci în compania sa ca simplu inginer electrician, unde a progresat rapid, rezolvând mai multe probleme tehnice foarte dificile pe care le aveau produsele companiei. Astfel că, i s-a oferit să reproiecteze complet toate generatoarele de curent continuu ale companiei.
+
 Tesla afirma că i s-au oferit 50.000$  pentru reproiectarea motoarelor și generatoarelor ineficiente ale lui Edison, îmbunătățind astfel serviciile și produsele oferite de compania acestuia, dar și veniturile financiare. În 1885, când Tesla a întrebat despre plata promisă, Edison i-a răspuns: "Tesla, tu nu înțelegi umorul nostru american", rupând astfel înțelegerea verbală. Cu un salariu de 18$ pe săptămână, Tesla ar fi trebuit să muncească 53 de ani pentru a strânge banii promiși. Oferta era egală cu capitalul inițial al companiei. Tesla a renunțat imediat la slujbă când i s-a refuzat o mărire de salariu la 25$ pe săptămână.
 
 ## Experimente si invenții
@@ -36,6 +35,7 @@ Bobina Tesla va fi folosita în experimente cu telecomandă radio, iluminare flu
 
 ### Experimente cu raze-x
 În aprilie 1887, Tesla a început cercetările la ceea ce aveau să se numească ulterior raze X, folosindu-se de propriul său tub de vacuum. Acest dispozitiv era diferit de alte tuburi de raze X prin faptul că nu avea electrod receptor. Acum se știe că acest dispozitiv funcționa emițând electroni dintr-un singur electrod, prin intermediul combinației de emisii de electroni prin efect de câmp și emisie termoionică. Odată eliberați, electronii sunt foarte rapid captați de un câmp electric puternic în apropierea electrodului în timpul vârfurilor de voltaj negativ de la ieșirea de înaltă tensiune oscilantă a bobinei Tesla, generând raze X atunci când se lovesc de învelișul de sticlă al tubului. Tesla a folosit, de asemenea, tuburile lui Geissler. In 1892, el a observat leziuni ale pielii, pe care Wilhelm Röntgen le-a identificat mai târziu ca fiind cauzate de razele X.
+
 În primele sale cercetări, Tesla a schițat anumite experimente pentru producerea razelor X. El a afirmat că, cu ajutorul acestor circuite, “instrumentul ar putea genera raze Roentgen de putere mai mare decât cele obținute cu aparatele obișnuite”. De asemenea, a atras atenția asupra pericolului folosirii circuitelor sale și a razelor X produse de dispozitivul său cu un singur nod. Din numeroasele sale note din timpul cercetărilor preliminare ale acestui fenomen, a atribuit leziunile pielii unor cauze variate. El a crezut inițial că leziunile nu puteau fi cauzate de către razele Roentgen, ci ozonului generat în contact cu pielea și în parte de acidul de azot. El credea că acestea erau unde longitudinale, că acelea produse de către unde în plasmă.
 
 ```
