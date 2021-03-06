@@ -38,7 +38,8 @@ Bobina Tesla va fi folosita în experimente cu telecomandă radio, iluminare flu
 În aprilie 1887, Tesla a început cercetările la ceea ce aveau să se numească ulterior raze X, folosindu-se de propriul său tub de vacuum. Acest dispozitiv era diferit de alte tuburi de raze X prin faptul că nu avea electrod receptor. Acum se știe că acest dispozitiv funcționa emițând electroni dintr-un singur electrod, prin intermediul combinației de emisii de electroni prin efect de câmp și emisie termoionică. Odată eliberați, electronii sunt foarte rapid captați de un câmp electric puternic în apropierea electrodului în timpul vârfurilor de voltaj negativ de la ieșirea de înaltă tensiune oscilantă a bobinei Tesla, generând raze X atunci când se lovesc de învelișul de sticlă al tubului. Tesla a folosit, de asemenea, tuburile lui Geissler. In 1892, el a observat leziuni ale pielii, pe care Wilhelm Röntgen le-a identificat mai târziu ca fiind cauzate de razele X.
 În primele sale cercetări, Tesla a schițat anumite experimente pentru producerea razelor X. El a afirmat că, cu ajutorul acestor circuite, “instrumentul ar putea genera raze Roentgen de putere mai mare decât cele obținute cu aparatele obișnuite”. De asemenea, a atras atenția asupra pericolului folosirii circuitelor sale și a razelor X produse de dispozitivul său cu un singur nod. Din numeroasele sale note din timpul cercetărilor preliminare ale acestui fenomen, a atribuit leziunile pielii unor cauze variate. El a crezut inițial că leziunile nu puteau fi cauzate de către razele Roentgen, ci ozonului generat în contact cu pielea și în parte de acidul de azot. El credea că acestea erau unde longitudinale, că acelea produse de către unde în plasmă.
 
-`#### Informații:
+```
+#### Informații:
 ##### Email personal: marcadrian12@yahoo.com
 ##### Proiect realizat de Lițoiu Marc Adrian
-`
+```
