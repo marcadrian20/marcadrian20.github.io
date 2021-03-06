@@ -2,7 +2,7 @@
 
 Nikola Tesla (10 iulie 1856-7 ianuarie 1943) a fost un inventator sârbo-american, inginer electric și futurist. În calitate de deținător de aproape 300 de brevete, Tesla este cel mai bine cunoscut pentru rolul său în dezvoltarea sistemului modern de alimentare cu energie electrică trifazată cu curent alternativ (AC) și pentru invenția bobinei Tesla, o avansare timpurie în domeniul transmisiei radio.
 
-## Tinerete si educatie
+## *Tinerete si educatie*
 
 Nikola Tesla s-a născut la 10 iulie 1856, în satul Smiljan din Imperiul Austriei (acum Croația), din partea tatălui său sârb Milutin Tesla, preot ortodox oriental , și a mamei sale Đuka Tesla, care a inventat aparate electrocasnice mici și a avut capacitatea pentru a memora lungi poezii epice sârbești. Tesla și-a creditat mama pentru propriul interes în inventarea și memoria fotografică. A avut patru frați, un frate Dane și surorile Angelina, Milka și Marica. 
 
@@ -12,7 +12,7 @@ Hotărâtă să urmeze o carieră în inginerie, Tesla s-a înscris la Institutu
 
 Simțind că castitatea îl va ajuta să se concentreze asupra carierei sale, Tesla nu s-a căsătorit niciodată sau nu a avut relații romantice cunoscute. În cartea ei din 2001, „ Tesla: Man Out of Time ”, biograful Margaret Cheney scrie că Tesla s-a simțit nevrednic de femei, considerându-le că sunt superioare lui în toate privințele. Totuși, mai târziu în viață, el și-a exprimat în public dezgustul puternic, ceea ce el numea „noua femeie”, femeile pe care le simțea că își abandonează feminitatea în încercarea de a domina bărbații.
 
-## Calea catre curentul alternativ (AC)
+## *Calea catre curentul alternativ (AC)*
 
 În 1881, Tesla s-a mutat la Budapesta, Ungaria, unde a dobândit experiență practică ca electrician șef la Centrala telefonică centrală. În 1882, Tesla a fost angajată de compania Continental Edison din Paris, unde a lucrat în industria emergentă de instalare a sistemului de iluminat cu incandescență cu curent continuu patentat de Thomas Edison în 1879. Impresionat de măiestria Tesla în inginerie și fizică, conducerea companiei în curând l-a pus să proiecteze versiuni îmbunătățite de generare de dinamouri și motoare și să rezolve probleme la alte instalații Edison din Franța și Germania.
 
