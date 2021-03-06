@@ -18,6 +18,31 @@ Simțind că castitatea îl va ajuta să se concentreze asupra carierei sale, Te
 
 Când managerul facilității Continental Edison din Paris a fost transferat înapoi în Statele Unite în 1884, el a cerut ca Tesla să fie adusă și în SUA. În iunie 1884, Tesla a emigrat în Statele Unite și a plecat să lucreze la Edison Machine Works din New York, unde sistemul de iluminare electrică bazat pe DC a lui Edison devenea rapid standardul. Doar șase luni mai târziu, Tesla a renunțat la Edison după o dispută aprinsă cu privire la salariile și bonusurile neplătite. În jurnalul său, Notebook from the Edison Machine Works: 1884-1885 , Tesla a marcat sfârșitul relației amiabile dintre cei doi mari inventatori. De-a lungul a două pagini, Tesla a scris cu litere mari, "Good By to the Edison Machine Works".
 
+Până în martie 1885, Tesla, cu sprijinul financiar al oamenilor de afaceri Robert Lane și Benjamin Vail, și-a început propria companie de iluminat, Tesla Electric Light & Manufacturing. În locul becurilor cu incandescență Edison, compania Tesla a instalat un sistem de iluminare cu arc alimentat de curent continuu pe care îl proiectase în timp ce lucra la Edison Machine Works. În timp ce sistemul de iluminare cu arc Tesla a fost lăudat pentru caracteristicile sale avansate, investitorii săi, Lane și Vail, au avut puțin interes în ideile sale de perfecționare și valorificare a curentului alternativ. În 1886, au abandonat compania Tesla pentru a-și înființa propria companie. Miscarea l-a lăsat pe Tesla fără bani, obligându-l să supraviețuiască luând lucrări de reparații electrice și săpând șanțuri pentru 2,00 USD pe zi. Din această perioadă de dificultăți, Tesla își va aminti mai târziu: „Învățământul meu înalt în diferite ramuri ale științei, mecanicii,
+
+În timpul perioadei sale de aproape destituire, hotărârea lui Tesla de a dovedi superioritatea curentului alternativ față de curentul continuu al lui Edison a devenit și mai puternică.
+
+### *Curentul alternativ și motorul cu inducție*
+
+În aprilie 1887, Tesla, împreună cu investitorii săi, superintendentul telegrafic Western Union Alfred S. Brown și avocatul Charles F. Peck, au înființat compania Tesla Electric Company în New York în scopul dezvoltării de noi tipuri de motoare și generatoare electrice.
+
+Tesla a dezvoltat în curând un nou tip de motor cu inducție electromagnetică care funcționa pe curent alternativ. Brevetat în mai 1888, motorul Tesla s-a dovedit a fi simplu, de încredere și nu supus nevoii constante de reparații care au afectat motoarele acționate în curent continuu în acel moment.
+
+În iulie 1888, Tesla și-a vândut brevetul pentru motoare de curent alternativ către Westinghouse Electric Corporation, deținută de George Westinghouse. În tranzacție, care s-a dovedit profitabilă din punct de vedere financiar pentru Tesla, Westinghouse Electric a obținut drepturile de comercializare a motorului de curent alternativ al lui Tesla și a acceptat să îl angajeze pe Tesla ca consultant.
+
+Cu Westinghouse susținând acum curentul alternativ și Edison susținând curentul direct, scena a fost pregătită pentru ceea ce va deveni cunoscut sub numele de "Războiul curenților".
+
+### *Bobina Tesla*
+
+În 1891, Tesla a brevetat bobina Tesla, un circuit de transformare electrică capabil să producă curent alternativ de înaltă tensiune și curent redus. Deși este cea mai cunoscută astăzi pentru utilizarea sa în demonstrații spectaculoase de electricitate, scuipătoare, bobina Tesla a fost fundamentală pentru dezvoltarea comunicațiilor fără fir. Încă folosit în tehnologia radio modernă, bobina inductor Tesla a fost o parte esențială a multor antene timpurii de transmisie radio.
+
+Tesla își va folosi bobina Tesla în experimente cu telecomandă radio, iluminare fluorescentă , raze X , electromagnetism și transmisie universală de energie fără fir. 
+
+La 30 iulie 1891, în același an în care și-a patentat bobina, Tesla, în vârstă de 35 de ani, a fost jurat ca cetățean naturalizat al Statelor Unite.
+
+### *Transmisie de energie fara fir*
+
+
 ////////
 **Bold** and _Italic_ and `Code` text
 
