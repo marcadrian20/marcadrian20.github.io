@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <!-- Add CRT effect -->
+    <style>
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: repeating-linear-gradient(0deg,
+                    rgba(0, 0, 0, 0.15),
+                    rgba(0, 0, 0, 0.15) 1px,
+                    transparent 1px,
+                    transparent 2px);
+            pointer-events: none;
+            z-index: 9999;
+            animation: scan 5s linear infinite;
+        }
+
+        @keyframes scan {
+            0% {
+                transform: translateY(0%);
+            }
+
+            100% {
+                transform: translateY(100%);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="desktop">
+        <div class="status-bar">
+            <span class="time" id="current-time"></span>
+            <div class="status-icons">
+                <span class="floppy">💾</span>
+                <span class="wifi">📡</span>
+                <span class="battery">🔋 100%</span>
+            </div>
+        </div>
+
+        <div class="app-grid">
+            <!-- Project Icons -->
+            <div class="app-icon" onclick="showAppInfo('project1')">
+                💾 OSDOS
+                <div class="app-data" data-title="OSDOS" data-description="My DOS-like OS for X86, written in Assembly"
+                    data-repo="https://github.com/marcadrian20/OSDOS">
+                </div>
+            </div>
+
+            <div class="app-icon" onclick="showAppInfo('project2')">
+                🕷️ WILLY The SpiderBOT
+                <div class="app-data" data-title="WILLY The SpiderBOT"
+                    data-description="Interactive 3D space visualization tool."
+                    data-repo="https://github.com/marcadrian20/Willy">
+                </div>
+            </div>
+
+            <div class="app-icon" onclick="showAppInfo('project3')">
+                🧮 16BIT_CPU_MULTISIM
+                <div class="app-data" data-title="16BIT_CPU_MULTISIM"
+                    data-description="A revolutionary application that changes everything."
+                    data-repo="https://github.com/marcadrian20/16BIT_CPU_MULTISIM">
+                </div>
+            </div>
+
+            <div class="app-icon" onclick="showAppInfo('project4')">
+                🎮 Platformvania
+                <div class="app-data" data-title="Platformvania"
+                    data-description="A metroidvania type platformer I made in highschool."
+                    data-repo="https://github.com/marcadrian20/Platformvania">
+                </div>
+            </div>
+            <!-- Add more projects here -->
+            <!-- Terminal Icon -->
+            <div class="app-icon" onclick="showTerminal()">
+                ⌨️ Terminal
+            </div>
+
+        </div>
+        <!-- Terminal Modal -->
+        <div id="terminalModal" class="modal">
+            <div class="terminal-content">
+                <div class="terminal-header">
+                    <span>OSDOS Terminal v0.0.1</span>
+                    <span class="close" onclick="closeTerminal()">&times;</span>
+                </div>
+                <div id="terminal-output">
+                    <p>Welcome to my repo terminal! Type 'help' for commands.</p>
+                    <p class="output-line"></p>
+                </div>
+                <div class="terminal-input">
+                    <span class="prompt">A:\></span>
+                    <input type="text" id="command-input" autocomplete="off" placeholder="Type command here..."
+                        onkeyup="handleCommand(event)">
+                </div>
+            </div>
+        </div>
+
+        <!-- App Info Modal -->
+        <div id="appModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <h2 id="appTitle"></h2>
+                <p id="appDescription"></p>
+                <a id="appRepo" href="#" target="_blank" class="repo-button">View Repository</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
