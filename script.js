@@ -39,6 +39,7 @@ let historyPointer = 0;
 
 function showTerminal() {
     const modal = document.getElementById('terminalModal');
+    closeModal();
     modal.style.display = 'flex';
     document.getElementById('command-input').focus();
 }
@@ -108,8 +109,9 @@ function processCommand(command) {
                 <div class="output-line">Available projects:</div>
                 <div class="output-line">- project1: OSDOS</div>
                 <div class="output-line">- project2: W.I.L.L.Y. The SpiderBot</div>
-                <div class="output-line">- project3: 16BIT_CPU_MULTISIM</div>
-                <div class="output-line">- project4: Platformvania</div>
+                <div class="output-line">- project3: My-CPU</div>
+                <div class="output-line">- project4: 16BIT_CPU_MULTISIM</div>
+                <div class="output-line">- project5: Platformvania</div>
             `;
             break;
             
@@ -119,8 +121,9 @@ function processCommand(command) {
                 const repos = {
                     project1: 'https://github.com/marcadrian20/OSDOS',
                     project2: 'https://github.com/marcadrian20/Willy',
-                    project3: 'https://github.com/marcadrian20/16BIT_CPU_MULTISIM',
-                    project4: 'https://github.com/marcadrian20/Platformvania',
+                    project3: 'https://github.com/marcadrian20/My-CPU',
+                    project4: 'https://github.com/marcadrian20/16BIT_CPU_MULTISIM',
+                    project5: 'https://github.com/marcadrian20/Platformvania',
                 };
                 
                 if(repos[project]) {

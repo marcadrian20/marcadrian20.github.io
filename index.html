@@ -62,7 +62,7 @@
             <!-- Project Icons -->
             <div class="app-icon" id="project1" onclick="showAppInfo('project1')">
                 💾 OSDOS
-                <div class="app-data" data-title="OSDOS" data-description="My DOS-like OS for X86, written in Assembly"
+                <div class="app-data" data-title="OSDOS" data-description="My DOS-like OS for X86, written in Assembly as a way to kick-start my journey into ASM and OS development. It has a simple command line interface and a few commands to play around with. It has a simple file system and a simple shell supporting basic commands like 'cls'. More to come. It has a custom made bootloader. For now it works only in REAL mode."
                     data-repo="https://github.com/marcadrian20/OSDOS">
                 </div>
             </div>
@@ -70,23 +70,44 @@
             <div class="app-icon" id="project2" onclick="showAppInfo('project2')">
                 🕷️ WILLY The SpiderBOT
                 <div class="app-data" data-title="WILLY The SpiderBOT"
-                    data-description="Interactive 3D space visualization tool."
+                    data-description="WILLY is a hexapod robot I made in my 2nd year of college. The physical robot has 6 legs, each with 3DOF(degrees of freedom) and a total of 18 servos. The robot is controlled by an ESP32 mcu interfaced through i2c to a 6500MPU accelerometer&gyro and two PCA9685(in quadruped mode only one is completely necessary).
+                    Willy can be controlled through a simple web interface or through ESP-NOW from another ESP32 sending commands to the main controller. In my original build I could both control it through the web interface and through an Xbox One controller. The library could use some improvements, especially in the gait generation"
                     data-repo="https://github.com/marcadrian20/Willy">
                 </div>
             </div>
 
             <div class="app-icon" id="project3" onclick="showAppInfo('project3')">
+                🧮 My-CPU
+                <div class="app-data" data-title="My First 16BIT CPU"
+                    data-description="Overview
+                    My-CPU is a 16-bit CPU with a simple instruction set, implemented using a non-pipelined design and Harvard architecture. This project was a personal endeavor to learn about the inner workings of a CPU.
+                    
+                    Features:
+                    16-bit CPU: The CPU processes 16-bit instructions and data.
+                    Simple Instruction Set: The instruction set is designed to be simple and easy to understand.
+                    Non-Pipelined Design: The CPU executes one instruction at a time, without pipelining.
+                    Harvard Architecture: Separate memory spaces for instructions and data."
+                    data-repo="https://github.com/marcadrian20/My-CPU">
+                </div>
+            </div>
+
+            <div class="app-icon" id="project3" onclick="showAppInfo('project4')">
                 🧮 16BIT_CPU_MULTISIM
                 <div class="app-data" data-title="16BIT_CPU_MULTISIM"
-                    data-description="A revolutionary application that changes everything."
+                    data-description="A simple 16 BIT cpu i made in Multisim back in the first year of college. It was a fun project that made me think out of the box, at the time feeling like a monumental task, but in the end it was worth it. 
+                    It has a simple instruction set and a simple architecture with memory mapped I/O, but it was a great learning experience. 
+                    It sports a pipelined design and could be interfaced with a simple 7 segment display or a more sophisticated setup(like a keyboard,non volatile memory and an LCD display). 
+                    I never got around to make a proper assembler for it, only writing in machine code straight into the memory"
                     data-repo="https://github.com/marcadrian20/16BIT_CPU_MULTISIM">
                 </div>
             </div>
 
-            <div class="app-icon" id="project4" onclick="showAppInfo('project4')">
+            <div class="app-icon" id="project4" onclick="showAppInfo('project5')">
                 🎮 Platformvania
                 <div class="app-data" data-title="Platformvania"
-                    data-description="A metroidvania type platformer I made in highschool."
+                    data-description="A metroidvania type 2D side scroller platformer that I made in highschool. It uses Unity as its game engine that teached me countless concepts about game development. It was my first real project that I made and I'm proud of it.
+                     The aim of the game is to get to the end without getting killed by the creatures of the night, and to collect all the Buffs. The story opens with our character, whom is a Forgotten Worrion of Time Past, waking up in the Plains of Rebirth due to unknown reasons. 
+                     The character slowly makes his way through dungeons,caves and a forgotten library to the inevitable end. Hopefully you will enjoy it as much as I did making it."
                     data-repo="https://github.com/marcadrian20/Platformvania">
                 </div>
             </div>
