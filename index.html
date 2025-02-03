@@ -49,16 +49,25 @@
             </div>
         </div>
 
-        <div class="app-grid">
+        <!-- App Info Modal -->
+        <div id="appModal" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal()">&times;</span>
+                <h2 id="appTitle"></h2>
+                <p id="appDescription"></p>
+                <a id="appRepo" href="#" target="_blank" class="repo-button">View Repository</a>
+            </div>
+        </div>
+        <div id="grid" class="app-grid">
             <!-- Project Icons -->
-            <div class="app-icon" onclick="showAppInfo('project1')">
+            <div class="app-icon" id="project1" onclick="showAppInfo('project1')">
                 💾 OSDOS
                 <div class="app-data" data-title="OSDOS" data-description="My DOS-like OS for X86, written in Assembly"
                     data-repo="https://github.com/marcadrian20/OSDOS">
                 </div>
             </div>
 
-            <div class="app-icon" onclick="showAppInfo('project2')">
+            <div class="app-icon" id="project2" onclick="showAppInfo('project2')">
                 🕷️ WILLY The SpiderBOT
                 <div class="app-data" data-title="WILLY The SpiderBOT"
                     data-description="Interactive 3D space visualization tool."
@@ -66,7 +75,7 @@
                 </div>
             </div>
 
-            <div class="app-icon" onclick="showAppInfo('project3')">
+            <div class="app-icon" id="project3" onclick="showAppInfo('project3')">
                 🧮 16BIT_CPU_MULTISIM
                 <div class="app-data" data-title="16BIT_CPU_MULTISIM"
                     data-description="A revolutionary application that changes everything."
@@ -74,13 +83,14 @@
                 </div>
             </div>
 
-            <div class="app-icon" onclick="showAppInfo('project4')">
+            <div class="app-icon" id="project4" onclick="showAppInfo('project4')">
                 🎮 Platformvania
                 <div class="app-data" data-title="Platformvania"
                     data-description="A metroidvania type platformer I made in highschool."
                     data-repo="https://github.com/marcadrian20/Platformvania">
                 </div>
             </div>
+            
             <!-- Add more projects here -->
             <!-- Terminal Icon -->
             <div class="app-icon" onclick="showTerminal()">
@@ -107,15 +117,7 @@
             </div>
         </div>
 
-        <!-- App Info Modal -->
-        <div id="appModal" class="modal">
-            <div class="modal-content">
-                <span class="close" onclick="closeModal()">&times;</span>
-                <h2 id="appTitle"></h2>
-                <p id="appDescription"></p>
-                <a id="appRepo" href="#" target="_blank" class="repo-button">View Repository</a>
-            </div>
-        </div>
+        
     </div>
 
     <script src="script.js"></script>

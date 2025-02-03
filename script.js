@@ -1,16 +1,28 @@
 function showAppInfo(projectId) {
     const modal = document.getElementById('appModal');
-    const appData = document.querySelector(`#${projectId} .app-data`);
+    // Find the project container that has the class "app-icon" and the correct projectId
+    const appIcon = document.querySelector(`#${projectId}`);
+    const appData = appIcon.querySelector('.app-data');
     
-    document.getElementById('appTitle').textContent = appData.dataset.title;
-    document.getElementById('appDescription').textContent = appData.dataset.description;
-    document.getElementById('appRepo').href = appData.dataset.repo;
+    // Ensure the appData exists
+    if (appData) {
+        document.getElementById('appTitle').textContent = appData.dataset.title;
+        document.getElementById('appDescription').textContent = appData.dataset.description;
+        document.getElementById('appRepo').href = appData.dataset.repo;
     
-    modal.style.display = 'flex';
+        // Display the modal
+        modal.style.display = 'flex';
+    } else {
+        console.error("appData not found for project: " + projectId);
+    }
+    // document.getElementById('grid').style.display = 'none';
+    document.getElementById('terminalModal').style.display = 'none';
 }
+
 
 function closeModal() {
     document.getElementById('appModal').style.display = 'none';
+    document.getElementById('grid').style.display = 'grid';
 }
 
 // Close modal when clicking outside
@@ -96,6 +108,8 @@ function processCommand(command) {
                 <div class="output-line">Available projects:</div>
                 <div class="output-line">- project1: OSDOS</div>
                 <div class="output-line">- project2: W.I.L.L.Y. The SpiderBot</div>
+                <div class="output-line">- project3: 16BIT_CPU_MULTISIM</div>
+                <div class="output-line">- project4: Platformvania</div>
             `;
             break;
             
@@ -104,7 +118,9 @@ function processCommand(command) {
                 const project = args[1].toLowerCase();
                 const repos = {
                     project1: 'https://github.com/marcadrian20/OSDOS',
-                    project2: 'https://github.com/marcadrian20/Willy'
+                    project2: 'https://github.com/marcadrian20/Willy',
+                    project3: 'https://github.com/marcadrian20/16BIT_CPU_MULTISIM',
+                    project4: 'https://github.com/marcadrian20/Platformvania',
                 };
                 
                 if(repos[project]) {
@@ -164,8 +180,8 @@ function crtStartup() {
     document.body.appendChild(noise);
     
     // Add startup sound
-    const audio = new Audio('crt-startup.mp3');
-    audio.play();
+    // const audio = new Audio('crt-startup.mp3');
+    // audio.play();
 }
 
 // Initialize CRT effect

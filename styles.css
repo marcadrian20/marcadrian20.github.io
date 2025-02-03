@@ -17,20 +17,45 @@ body::after {
     left: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(
-        ellipse at center,
-        rgba(0, 255, 0, 0.1) 0%,
-        rgba(0, 255, 0, 0) 70%
-    );
+    background: radial-gradient(ellipse at center,
+            rgba(0, 255, 0, 0.1) 0%,
+            rgba(0, 255, 0, 0) 70%);
     pointer-events: none;
     z-index: 9998;
     animation: flicker 0.1s infinite;
 }
+#appModal {
+    display: none;
+    position: relative;
+    padding: 20px;
+
+}
+.repo-button {
+    background: rgba(0, 30, 0, 0.9);
+    border: 1px solid #00ff00;
+    color: #00ff00;
+    padding: 5px 15px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+/* .repo-button:hover {
+    background: rgba(0, 255, 0, 0.1);
+    /* box-shadow: 0 0 10px rgba(0, 255, 0, 0.3); */
+/* } */ 
 
 @keyframes flicker {
-    0% { opacity: 0.9; }
-    50% { opacity: 1; }
-    100% { opacity: 0.9; }
+    0% {
+        opacity: 0.9;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.9;
+    }
 }
 
 .desktop {
@@ -49,7 +74,7 @@ body::after {
     right: 0;
     bottom: 0;
     border-radius: 20px;
-    box-shadow: inset 0 0 20px rgba(0,255,0,0.3);
+    box-shadow: inset 0 0 20px rgba(0, 255, 0, 0.3);
     pointer-events: none;
 }
 
@@ -66,6 +91,7 @@ body::after {
 .app-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: min-content;
     gap: 20px;
     padding: 20px;
     flex-grow: 1;
@@ -75,36 +101,36 @@ body::after {
     color: #00ff00;
     text-align: center;
     padding: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
     cursor: pointer;
+    aspect-ratio: 1; /* Maintain square ratio */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    word-break: break-word; /* Handle text wrapping */
+    padding: 10px; /* Reduce padding if needed */
     transition: transform 0.2s;
     border-radius: 5px;
-    background: rgba(0,255,0,0.05);
-    border: 1px solid rgba(0,255,0,0.2);
+    background: rgba(0, 255, 0, 0.05);
+    border: 1px solid rgba(0, 255, 0, 0.2);
     text-shadow: 0 0 5px #00ff00;
 }
 
 .app-icon:hover {
     transform: scale(1.05);
-    background: rgba(0,255,0,0.1);
-    box-shadow: 0 0 10px rgba(0,255,0,0.3);
+    background: rgba(0, 255, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
 }
 
-/* Terminal Styles */
-.terminal-content {
-    background: #000;
-    color: #00ff00;
-    padding: 20px;
-    border: 2px solid #00ff00;
-    border-radius: 5px;
-    width: 80%;
-    max-width: 600px;
-    font-family: 'VT323', monospace;
-    text-shadow: 0 0 5px #00ff00;
-    box-shadow: 0 0 20px rgba(0,255,0,0.3);
-}
 
 /* Add glowing effect to text */
-h1, h2, h3, p, span {
+h1,
+h2,
+h3,
+p,
+span {
     text-shadow: 0 0 5px #00ff00;
 }
 
@@ -115,13 +141,11 @@ h1, h2, h3, p, span {
     left: 0;
     width: 100%;
     height: 100%;
-    background: repeating-linear-gradient(
-        to bottom,
-        transparent,
-        transparent 2px,
-        rgba(0,255,0,0.05) 2px,
-        rgba(0,255,0,0.05) 4px
-    );
+    background: repeating-linear-gradient(to bottom,
+            transparent,
+            transparent 2px,
+            rgba(0, 255, 0, 0.05) 2px,
+            rgba(0, 255, 0, 0.05) 4px);
     pointer-events: none;
     z-index: 9999;
     animation: scan 5s linear infinite;
@@ -137,7 +161,7 @@ h1, h2, h3, p, span {
     background: #333;
     border-radius: 50%;
     border: 2px solid #00ff00;
-    box-shadow: 0 0 10px rgba(0,255,0,0.3);
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
 }
 
 /* Add monitor base */
@@ -150,11 +174,41 @@ h1, h2, h3, p, span {
     height: 50px;
     background: #333;
     border-radius: 10px 10px 0 0;
-    box-shadow: 0 0 20px rgba(0,255,0,0.3);
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
 }
+
+/* #appModal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
 
 /* Terminal Styles */
 .terminal-content {
+    background: #000;
+    color: #00ff00;
+    padding: 20px;
+    border: 2px solid #00ff00;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 600px;
+    font-family: 'Courier New', monospace;
+    /* font-size: 30px; */
+    text-shadow: 0 0 5px #00ff00;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+}
+
+/* Terminal Styles */
+/* .terminal-content {
     background: #000000;
     color: #00ff00;
     padding: 20px;
@@ -162,7 +216,7 @@ h1, h2, h3, p, span {
     width: 80%;
     max-width: 600px;
     font-family: 'Courier New', monospace;
-}
+} */
 
 .terminal-header {
     display: flex;
